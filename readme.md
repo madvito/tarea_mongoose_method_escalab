@@ -1,7 +1,7 @@
-## Info
+# Info
 
-# Ruta:
+## Ruta:
 localhost:8080/api/v1/carro/{id usuario}/{id producto a eliminar}
 
-# Metodo:
+## Metodo:
 schemaUsuario.methods.removeCarro 
